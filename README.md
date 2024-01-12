@@ -1,7 +1,8 @@
 # Hi there! 👋 I'm Will.
 Thanks for visiting my profile. I hope I can help you!
+
 <details>
-  <summary><h3>Language Breakdowns</h3></summary>
+  <summary><h3>Languages Breakdown</h3></summary>
   <img alt="Will's Top Programming Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=willisaur&langs_count=8&layout=compact&theme=react&bg_color=121D2F&title_color=2F81D7&border_color=01072e"/>
 </details>
 
