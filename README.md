@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Will.
-I'm a senior at Liberty University. I'm passionate about data structures, backend development, automation and AI, and computer vision. I've interned at Microsoft for two summers and am searching for new grad opportunities.
+I'm a senior at Liberty University. I'm passionate about data structures, backend development, automation and AI, and computer vision. I've interned at Microsoft for two summers and will be working at Oracle post-grad.
 
 <h3>Follow me on LinkedIn!</h3>
 <a href="https://www.linkedin.com/in/willstarling/"><img src="linkedin.png" width=50% /></a>
